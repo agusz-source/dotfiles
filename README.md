@@ -1,6 +1,6 @@
 # READ ME!!
 Good Boy.
-I'm working in this so it looks so empty for now
+I'm working in this and that's why it looks empty
 
 # Info
 WM = Hyprland
