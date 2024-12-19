@@ -23,7 +23,7 @@ Discord = BetterDiscord
 
 
 
-
+# Shortcuts
 
 ```Mod + E``` = Run Rofi or Menu 
 
